@@ -1,2 +1,2 @@
 # Hello-world
-for testing purposes
+Hello my name is Jeonghwan Cho
